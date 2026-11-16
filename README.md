@@ -16,7 +16,7 @@ Berikut proyek-proyek untuk mata kuliah Pemrograman Mobile:
 
 | Proyek | Deskripsi | Link |
 |--------|-----------|------|
-| WebView Prototyping | Aplikasi WebView portal kampus yang dibuat dengan metode prototyping dua siklus: prototype awal dengan MIT App Inventor, lalu dikembangkan dengan React Native | [Tugas_Web_View_Fabric](https://github.com/fasha09/Tugas_Web_View_Fabric) |
+| WebView Prototyping | Aplikasi WebView portal kampus yang dibuat dengan metode prototyping dua siklus: prototype awal dengan MIT App Inventor, lalu dikembangkan dengan React Native | [webview-prototyping](https://github.com/fasha09/webview-prototyping) |
 | Tic Tac Toe | Permainan Tic Tac Toe dua pemain dengan React Native dan Expo | [TicTacToeApp](https://github.com/fasha09/TicTacToeApp) |
 | Todos App | Aplikasi To Do List dengan fitur CRUD menggunakan React Native, Expo, dan Firebase Firestore | [todosapp-react-native-firebase](https://github.com/fasha09/todosapp-react-native-firebase) |
 

@@ -23,8 +23,7 @@ Berikut proyek-proyek untuk mata kuliah Pemrograman Mobile:
 ## Mari Terkoneksi
 
 - GitHub: [fasha09](https://github.com/fasha09)
-- LinkedIn: [isi link LinkedIn kamu](https://www.linkedin.com/in/username-kamu)
-- Email: email-kamu@domain.com
+- Email: fashadania09@gmail.com
 
 ---
 
